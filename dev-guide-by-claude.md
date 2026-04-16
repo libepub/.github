@@ -1524,5 +1524,5 @@ git push origin main --tags
 ---
 
 *Built with ♥ by the libepub team — digitizing Bengali Islamic heritage, one book at a time.*
-
+*Writen by Claude Sonnet 4.6.*
 *"ইলম অন্বেষণ করা প্রতিটি মুসলিমের উপর ফরজ।" — সহীহ ইবনে মাজাহ*
